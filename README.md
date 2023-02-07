@@ -2,6 +2,9 @@
 I`m Front-End Developer and I have a large work experience in a team (more than 14 years), including in an English-speaking team. I also have work experience (more than 3 years) as a team leader of 5-6 people and the performing various projects.
 
 ## 🚀 My Stack:
+![HTML](https://img.shields.io/badge/HTML-0D1D34?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-0D1D34?style=for-the-badge&logo=CSS3)
+![Javascript](https://img.shields.io/badge/Javascript-0D1D34?style=for-the-badge&logo=Javascript) 
 ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react) 
 ![Redux-Toolkit](https://img.shields.io/badge/ReduxToolkit-0D1D34?style=for-the-badge&logo=Redux)
 ![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) 
@@ -19,7 +22,7 @@ I`m Front-End Developer and I have a large work experience in a team (more than 
 ### 👷 My projects for business:
 | ⚡ Project Name | 📰 Brief Info | 🚀 Built With |
 | --------------- | -------------- | ------------- |
-| **DIMASIK** (Business web site) | **Dimasik** company is engaged in assembly and repair of furniture | ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react) ![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) ![Sass](https://img.shields.io/badge/Sass-0D1D34?style=for-the-badge&logo=Sass) ![MaterialUI](https://img.shields.io/badge/MaterialUI-0D1D34?style=for-the-badge&logo=MUI) ![React-hook-form](https://img.shields.io/badge/Reacthookform-0D1D34?style=for-the-badge&logo=Reacthookform) ![Figma](https://img.shields.io/badge/Figma-0D1D34?style=for-the-badge&logo=Figma) |
+| **DIMASIQUE** (Business web site) | **Dimasique** company is engaged in assembly and repair of furniture | ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react) ![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) ![Sass](https://img.shields.io/badge/Sass-0D1D34?style=for-the-badge&logo=Sass) ![MaterialUI](https://img.shields.io/badge/MaterialUI-0D1D34?style=for-the-badge&logo=MUI) ![React-hook-form](https://img.shields.io/badge/Reacthookform-0D1D34?style=for-the-badge&logo=Reacthookform) ![Figma](https://img.shields.io/badge/Figma-0D1D34?style=for-the-badge&logo=Figma) |
 
 ### 📖🤝 My study teamwork projects:
 | ⚡ Project Name | 📰 Brief Info | 🚀 Built With |
