@@ -10,6 +10,7 @@ I`m Front-End Developer and I have a large work experience in a team (more than 
 ![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) 
 ![Sass](https://img.shields.io/badge/Sass-0D1D34?style=for-the-badge&logo=Sass) 
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-0D1D34?style=for-the-badge&logo=MUI) 
+![Styled Components](https://img.shields.io/badge/StyledComponents-0D1D34?style=for-the-badge&logo=StyledComponents)
 ![React-hook-form](https://img.shields.io/badge/Reacthookform-0D1D34?style=for-the-badge&logo=Reacthookform) 
 ![Figma](https://img.shields.io/badge/Figma-0D1D34?style=for-the-badge&logo=Figma)
 
