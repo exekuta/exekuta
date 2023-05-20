@@ -5,9 +5,10 @@ I`m Front-End Developer and I have a large work experience in a team (more than 
 ![HTML](https://img.shields.io/badge/HTML-0D1D34?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-0D1D34?style=for-the-badge&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/Javascript-0D1D34?style=for-the-badge&logo=Javascript) 
+![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) 
 ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react) 
 ![Redux-Toolkit](https://img.shields.io/badge/ReduxToolkit-0D1D34?style=for-the-badge&logo=Redux)
-![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) 
+![Effector](https://img.shields.io/badge/Effector-0D1D34?style=for-the-badge&logo=Effector)
 ![Sass](https://img.shields.io/badge/Sass-0D1D34?style=for-the-badge&logo=Sass) 
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-0D1D34?style=for-the-badge&logo=MUI) 
 ![Styled Components](https://img.shields.io/badge/StyledComponents-0D1D34?style=for-the-badge&logo=StyledComponents)
@@ -20,7 +21,6 @@ I`m Front-End Developer and I have a large work experience in a team (more than 
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-0D1D34?style=for-the-badge&logo=Vue.JS)
 
 ## 💻 My Projects:
-### 👷 My projects for business:
 | ⚡ Project Name | 📰 Brief Info | 🚀 Built With |
 | --------------- | -------------- | ------------- |
 | **DIMASIQUE** (Business web site) | **Dimasique** company is engaged in assembly and repair of furniture | ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react) ![Typescript](https://img.shields.io/badge/Typescript-0D1D34?style=for-the-badge&logo=Typescript) ![Sass](https://img.shields.io/badge/Sass-0D1D34?style=for-the-badge&logo=Sass) ![MaterialUI](https://img.shields.io/badge/MaterialUI-0D1D34?style=for-the-badge&logo=MUI) ![React-hook-form](https://img.shields.io/badge/Reacthookform-0D1D34?style=for-the-badge&logo=Reacthookform) ![Figma](https://img.shields.io/badge/Figma-0D1D34?style=for-the-badge&logo=Figma) |
